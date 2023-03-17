@@ -1,0 +1,38 @@
+.menu__link {
+    color: #ffffff;
+    margin-left: 2.5rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.menu__link.ativo {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.menu__link:hover {
+    color: aqua;
+    text-decoration: underline;
+}
+
+/*@media screen and (max-width: 424px) {
+    .menu__link {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        bottom: 160px;
+        left: 110px;
+        font-size: 0.9rem;
+        padding: 0.2rem 0.2rem;
+    }
+}
+
+@media screen and (min-width: 550px) {
+    .menu__link {
+        display: flex;
+        position: relative;
+        bottom: 160px;
+        font-size: 0.9rem;
+        padding: 0.2rem 0.2rem;
+    }
+}*/

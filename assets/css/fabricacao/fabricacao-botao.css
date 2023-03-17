@@ -1,0 +1,13 @@
+.fabricacao__botao {
+    background: #000000;
+    border: none;
+    border-radius: 5px;
+    color: #fdfdfd;
+    padding: 1rem;
+    transition: all .1s ease-in-out;
+}
+
+.fabricacao__botao:hover {
+    background: #303030;
+    cursor: pointer;
+}

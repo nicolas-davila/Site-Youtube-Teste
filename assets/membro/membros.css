@@ -1,0 +1,11 @@
+.membros {
+    display: flex;
+    justify-content: center;
+}
+
+@media  screen and (min-width: 0) {
+    .membros {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}

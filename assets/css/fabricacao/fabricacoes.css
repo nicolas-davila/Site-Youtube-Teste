@@ -1,0 +1,20 @@
+.fabricacoes {
+    background: url(../../img/anime.background2.jpg);
+    height: 1000px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: center;
+    background-size: 100%;
+    align-items: center;
+    padding: 1% ;
+}
+
+@media screen and (max-width: 700px) {
+    .fabricacoes {
+        background: black;
+        height: calc(33% - 2.5rem);
+        display: flex;
+        flex-wrap: wrap;
+    }
+}

@@ -1,0 +1,7 @@
+.membro__funcao {
+    text-transform: uppercase;
+    color: #595959;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+}

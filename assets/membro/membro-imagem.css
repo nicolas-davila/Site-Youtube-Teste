@@ -1,0 +1,24 @@
+.membro__imagem {
+    background: white;
+    background-size: cover;
+    height: 300px;
+    background-position: center;
+    width: 300px;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+.membro__imagem--nicolas {
+    background-image: url("../img/kirito.webp");
+}
+
+.membro__imagem--swexzin {
+    background-image: url("../img/killua.jpg");
+    
+
+}
+
+
+ 

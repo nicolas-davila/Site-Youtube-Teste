@@ -1,0 +1,9 @@
+.membro__nome {
+    color: #ffffff;
+    font-family: "Outfit", serif;
+    font-size: 2rem;
+    margin: 1rem 0;
+    display: flex;
+    flex-direction: column;
+    
+}

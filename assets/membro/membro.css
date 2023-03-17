@@ -1,0 +1,18 @@
+.membro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2% 5%;
+}
+
+@media screen and (min-width: 0) {
+    .membro {
+        margin-bottom: 2rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .membro {
+        margin-bottom: 0;
+    }
+}
