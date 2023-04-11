@@ -5,7 +5,7 @@
   * Ele não está totalmente disponível para celular, está em desenvolvimento ainda;
   * Pode ser usado como exemplo de algum site que você queira fazer.
   
-  #Organização:
+  # Organização:
   
   * Dentro da pasta "assets", está toda a estilização minha. Ela está bem dividida;
   * "img" contém todas as imagens que utilizei;
